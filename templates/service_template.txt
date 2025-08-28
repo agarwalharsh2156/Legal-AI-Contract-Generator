@@ -1,0 +1,37 @@
+SERVICE AGREEMENT TEMPLATE
+
+This template provides the structure for generating professional service agreements.
+Placeholder variables for customization:
+
+{client} - Client company name
+{provider} - Service provider name
+{services} - Description of services
+{payment} - Compensation terms
+{duration} - Contract duration
+{date} - Effective date
+{jurisdiction} - Governing law
+
+ESSENTIAL SECTIONS:
+1. Parties and Recitals
+2. Scope of Services
+3. Compensation and Payment Terms
+4. Term and Termination
+5. Intellectual Property Rights
+6. Confidentiality
+7. Warranties and Representations
+8. Limitation of Liability
+9. Indemnification
+10. General Provisions
+11. Signature Blocks
+
+KEY CONSIDERATIONS:
+- Clear service deliverables
+- Payment schedules and late fees
+- IP ownership and licensing
+- Liability limitations and caps
+- Termination procedures
+- Dispute resolution mechanisms
+
+This template ensures comprehensive coverage of all critical
+service agreement provisions while maintaining flexibility
+for various service types and industries.

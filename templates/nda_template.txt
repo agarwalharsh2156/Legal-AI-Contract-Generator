@@ -1,0 +1,31 @@
+MUTUAL NON-DISCLOSURE AGREEMENT TEMPLATE
+
+This template serves as a baseline for generating comprehensive NDAs.
+The following placeholders will be replaced by the contract generator:
+
+{party1} - First party name
+{party2} - Second party name
+{date} - Effective date
+{term} - Agreement term/duration
+{jurisdiction} - Governing law jurisdiction
+
+STANDARD SECTIONS TO INCLUDE:
+1. Parties and Effective Date
+2. Definition of Confidential Information
+3. Obligations of Receiving Party
+4. Permitted Disclosures
+5. Return of Materials
+6. Term and Termination
+7. Remedies
+8. General Provisions
+9. Signature Blocks
+
+CRITICAL CLAUSES:
+- Broad definition of confidential information
+- Reasonable care standard
+- Injunctive relief provisions
+- Survival of obligations
+- Governing law and jurisdiction
+
+This template is used by the AI to generate consistent, comprehensive NDAs
+while ensuring all critical legal protections are included.
